@@ -48,4 +48,5 @@ This project is made for educational and nostalgic purposes. Nokia, its logo, an
 
 
 Created by Edjay
+
 Feel free to fork, modify, or improve this project!
