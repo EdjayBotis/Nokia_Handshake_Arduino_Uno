@@ -45,8 +45,7 @@ The Nokia startup tune used in this project was sourced from a **GitHub user** (
 This project is made for educational purposes and personal satisfaction. Nokia, its logo, and startup sound are properties of Nokia Corporation.
 
 
-
-
+## 
 Created by Edjay
 
 Feel free to fork, modify, or improve this project!
