@@ -32,7 +32,7 @@ You can install them via **Library Manager** in the Arduino IDE.
 
 ## Nokia Tune Credit
 
-The Nokia startup tune used in this project was sourced from a **GitHub user** (credit to the original creator — if you remember their username, feel free to update this file!).
+The Nokia startup tune used in this project was sourced from a **GitHub user** (credit to the original creator — i forgot the name of the github user).
 
 ## How It Works
 
