@@ -42,7 +42,7 @@ The Nokia startup tune used in this project was sourced from a **GitHub user** (
 
 ## License
 
-This project is made for educational and nostalgic purposes. Nokia, its logo, and startup sound are properties of Nokia Corporation.
+This project is made for educational purposes and personal satisfaction. Nokia, its logo, and startup sound are properties of Nokia Corporation.
 
 
 
