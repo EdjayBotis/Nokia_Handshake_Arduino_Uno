@@ -1,6 +1,6 @@
 # Nokia Handshake Arduino Project
 
-This is a fun, nostalgic project that recreates the iconic Nokia startup handshake and tone using an **Arduino Uno**, an **OLED SSD1306 display**, and a **buzzer**.
+This project recreates the iconic Nokia startup handshake and tone using an **Arduino Uno**, an **OLED SSD1306 display**, and a **buzzer**.
 
 ## Components Used
 
