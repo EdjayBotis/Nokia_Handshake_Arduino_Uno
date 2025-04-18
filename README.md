@@ -20,6 +20,9 @@ This project recreates the iconic Nokia startup handshake and tone using an **Ar
 | VCC      | 5V          |
 | GND      | GND         |
 
+![image](https://github.com/user-attachments/assets/60fa0de0-9baa-4111-b9d3-366dd2d1a77d)
+
+
 ## Libraries Required
 
 Make sure you have these libraries installed in the Arduino IDE:
